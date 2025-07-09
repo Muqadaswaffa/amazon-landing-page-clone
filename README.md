@@ -1,2 +1,25 @@
-# amazon-landing-page-clone
-🛍️ Amazon Landing Page Clone  A static clone of Amazon's homepage built using HTML5 and CSS3. This project focuses on recreating the core layout and UI components of a real-world e-commerce platform to strengthen my frontend development skills.  Technologies: HTML, CSS, Flexbox, Grid Note: This version is desktop-only and not fully responsive.
+ # 🛍️ Amazon Landing Page Clone
+
+I created a static clone of Amazon's homepage using **HTML5** and **CSS3**.  
+This project helped me practice structuring web pages, working with layout techniques like **Flexbox** and **Grid**, and replicating the look of a real-world e-commerce platform.
+
+---
+
+## 📌 Features
+
+- Header with logo, search bar, and navigation links  
+- Amazon-style product grid layout  
+- Footer section with important links  
+- Designed for desktop view only (not responsive)
+
+
+
+## 🛠️ Technologies I Used
+
+-  HTML5  
+- CSS3  
+- Flexbox  
+- CSS Grid  
+- Google Fonts / Font Awesome (if used)
+
+
